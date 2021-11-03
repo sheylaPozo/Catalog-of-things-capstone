@@ -51,7 +51,7 @@ The List options will display the information of currently created things and pr
 
 #### Add
 
-The add function will start prompting you for data, follow the instructions gave by the console you will be able to create all kind of items(books, games, albums), and propietys(authors, labels and genres), also you will be able to create propietys for items in middle of item creation in case they are not in the list, and you want to add some!
+The add function will start prompting you for data, follow the instructions gave by the console you will be able to create all kind of items(books, games, albums), and properties(authors, labels and genres), also you will be able to create properties for items in middle of item creation in case they are not in the list, and you want to add some!
 
 #### Exit
 
